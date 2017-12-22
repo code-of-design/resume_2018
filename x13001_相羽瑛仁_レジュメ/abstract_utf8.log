@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.9.29)  19 DEC 2017 14:57
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.9.29)  22 DEC 2017 17:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -114,40 +114,7 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (./abstract_utf8.aux
 
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `fig:HMD' multiply defined.
-
-
-LaTeX Warning: Label `fig:HMD' multiply defined.
-
-
-LaTeX Warning: Label `fig:HMD' multiply defined.
+LaTeX Warning: Label `fig:db_init' multiply defined.
 
 )
 \openout1 = `abstract_utf8.aux'.
@@ -184,35 +151,33 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 62.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 62.
-File: ninchishoukoureishasu.eps Graphic file (type eps)
- <ninchishoukoureishasu.eps>
 File: 20171207_cognicise.eps Graphic file (type eps)
  <20171207_cognicise.eps>
-File: cognistep.eps Graphic file (type eps)
- <cognistep.eps>
 File: system.eps Graphic file (type eps)
-
-<system.eps>
+ <system.eps>
 File: vm_init.eps Graphic file (type eps)
  <vm_init.eps>
 File: db_init.eps Graphic file (type eps)
- <db_init.eps> [1
+ <db_init.eps>
+File: db_init.eps Graphic file (type eps)
+
+<db_init.eps>
+File: use_system.eps Graphic file (type eps)
+ <use_system.eps> [1
 
 
-] [2] [3
-
-] (./abstract_utf8.aux)
+] [2] (./abstract_utf8.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1121 strings out of 493693
- 14932 string characters out of 6149787
- 74560 words of memory out of 5000000
- 4708 multiletter control sequences out of 15000+600000
+ 1126 strings out of 493693
+ 15000 string characters out of 6149787
+ 72560 words of memory out of 5000000
+ 4714 multiletter control sequences out of 15000+600000
  9956 words of font info for 40 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,9n,24p,901b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,9n,24p,855b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on abstract_utf8.dvi (3 pages, 10976 bytes).
+Output written on abstract_utf8.dvi (2 pages, 8808 bytes).
